@@ -2,8 +2,10 @@
 
 <p align="center"> Projeto para agregar todos seus links em um site. </p>
 
-# Tecnologias
+<h2> Tecnologias <h2>
 <p>Tecnologias usadas:</p>
-* HTML e CSS
-* Javascript
-* Git e Github
+<ul>
+    <li>HTML e CSS</li>
+    <li>Javascript</li>
+    <li>Git e Github</li>
+</ul>
